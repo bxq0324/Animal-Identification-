@@ -1,14 +1,4 @@
-# reader.py
-# ---------------
-# Licensing Information:  You are free to use or extend this projects for
-# educational purposes provided that (1) you do not distribute or publish
-# solutions, (2) you retain this notice, and (3) you provide clear
-# attribution to the University of Illinois at Urbana-Champaign
-#
-# Created by Justin Lizama (jlizama2@illinois.edu) on 09/28/2018
-"""
-This file is responsible for providing functions for reading the files
-"""
+
 from os import listdir
 import numpy as np
 import pickle
