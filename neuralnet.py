@@ -1,20 +1,4 @@
-# neuralnet.py
-# ---------------
-# Licensing Information:  You are free to use or extend this projects for
-# educational purposes provided that (1) you do not distribute or publish
-# solutions, (2) you retain this notice, and (3) you provide clear
-# attribution to the University of Illinois at Urbana-Champaign
-#
-# Created by Justin Lizama (jlizama2@illinois.edu) on 10/29/2019
-# Modified by Mahir Morshed for the spring 2021 semester
-# Modified by Joao Marques for the fall 2021 semester
-# Modified by Kaiwen Hong for the Spring 2022 semester
 
-"""
-This is the main entry point for MP2. You should only modify code
-within this file and neuralnet.py -- the unrevised staff files will be used for all other
-files and classes when code is run, so be careful to not modify anything else.
-"""
 
 import numpy as np
 
